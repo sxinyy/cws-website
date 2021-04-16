@@ -1,0 +1,61 @@
+body{
+
+  background-image: url('img2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+  border: 0;
+  padding: 5% 3% 5% 3%;
+}
+
+
+
+/*class*/
+.color
+{
+  background-color: #f7f7f7;
+  color: #393e46;
+
+}
+
+.navbar
+{
+  padding-left: 30px;
+  border:0.1rem;
+  border-style: hidden;
+  border-radius: 25px;
+}
+
+.nav-link:hover
+{
+  color: #5ea3a3;
+}
+
+.outer
+{
+  padding: 1% 5% 1% 5%;
+}
+
+.tagline
+{
+  height: 20rem;
+  width: 100%;
+  margin-top: 5%;
+  opacity: 70%;
+  margin-bottom: 5%;
+}
+
+.img1
+{
+  opacity: 100%;
+  height: auto;
+  width: 90%;
+  margin:10%;
+
+}
+
+.discription
+{
+  padding:5% 5% 5% 5%;
+}
